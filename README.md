@@ -2,11 +2,6 @@
 
 This repository is just a test I made while learning how to publish a Go package.
 
-## Downloading the package
-```bash
-go get -u github.com/Liedsonfsa/math-package@v0.1.1
-```
-
 ## Package Structures
 
 ```Go
@@ -37,6 +32,12 @@ func (c Calculator) SumInt(numbers ...int) int {
 	return total
 }
 ```
+
+## Downloading the package
+```bash
+go get -u github.com/Liedsonfsa/math-package@v0.1.1
+```
+
 
 ## Using the package
 ```Go
