@@ -4,7 +4,7 @@ This repository is just a test I made while learning how to publish a Go package
 
 ## Downloading the package
 ```bash
-go get -u github.com/Liedsonfsa/math-package@v0.1.0
+go get -u github.com/Liedsonfsa/math-package@v0.1.1
 ```
 
 ## Package Structures
